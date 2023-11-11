@@ -1,5 +1,5 @@
 {
-    "name": "sempro/socialite-provider-vipps",
+    "name": "vfineide/socialite-provider-vipps",
     "description": "Vipps OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [{
